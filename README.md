@@ -8,6 +8,7 @@ DSA Problems solved on Leetcode Platform
 | ------- |
 | [0001-two-sum](https://github.com/shashankm537/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shashankm537/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/shashankm537/DSA/tree/master/0011-container-with-most-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,4 +35,12 @@ DSA Problems solved on Leetcode Platform
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/shashankm537/DSA/tree/master/0010-regular-expression-matching) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shashankm537/DSA/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/shashankm537/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
