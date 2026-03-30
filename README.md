@@ -14,6 +14,7 @@ DSA Problems solved on Leetcode Platform
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shashankm537/DSA/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shashankm537/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -25,6 +26,7 @@ DSA Problems solved on Leetcode Platform
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shashankm537/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/shashankm537/DSA/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/shashankm537/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/shashankm537/DSA/tree/master/0010-regular-expression-matching) |
@@ -54,4 +56,8 @@ DSA Problems solved on Leetcode Platform
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shashankm537/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/shashankm537/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
