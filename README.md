@@ -41,6 +41,7 @@ DSA Problems solved on Leetcode Platform
 | ------- |
 | [0011-container-with-most-water](https://github.com/shashankm537/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shashankm537/DSA/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shashankm537/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 ## Greedy
 |  |
 | ------- |
@@ -49,4 +50,8 @@ DSA Problems solved on Leetcode Platform
 |  |
 | ------- |
 | [0015-3sum](https://github.com/shashankm537/DSA/tree/master/0015-3sum) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/shashankm537/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
